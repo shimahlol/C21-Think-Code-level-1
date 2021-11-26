@@ -1,6 +1,6 @@
-age = 
+score = 60
 
-if conditie:
-    print(True)
+if (score>=60):
+  print("passed")
 else:
-    print(False)
+  print("failed")
