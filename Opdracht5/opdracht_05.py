@@ -1,4 +1,5 @@
-def top_games():
-    print("sims, sims 2, sims 3")
-def top_films():
-    print("cars, cars 2, cars 3")
+def top_games(top_games):
+    print("beste games", top_games)
+    top_games("sims")
+    top_games("sims2")
+    top_games("sims3")
